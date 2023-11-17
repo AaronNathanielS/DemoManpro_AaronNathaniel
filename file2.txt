@@ -1,3 +1,5 @@
 ini adalah  file text2
 
 Halowww file 2
+
+file2 ini adalah text demo Manpro
